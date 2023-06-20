@@ -1,0 +1,7 @@
+FileManager(File root)
+    -Save(path)
+    -Move(path,path)
+    -Delete(path, isrecursve)
+File(name)
+Directory(Files[])
+FileFile(Content)

@@ -1,0 +1,5 @@
+Book(Id Title Author,Category, Info..)
+User
+Category(Books)
+BookReader
+Catalog(Categories, Books)

@@ -1,0 +1,16 @@
+Who will use it and why
+A person to write down words
+
+What are the use cases
+writing on surfaces
+
+What are the bounds of use
+write using a limited ammount of ink
+
+What are the stress/failure conditions
+For diferent surfaces it may not write
+Pen out of ink
+
+How would you perform the testing
+Write on diferent surfaces
+test ammount of ink used to write

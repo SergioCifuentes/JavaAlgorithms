@@ -1,0 +1,8 @@
+Final
+Makes Object not modifiable
+
+Finally
+Block of code executed at the end of another block of code (try-catch)
+
+Finalize
+Is called by the garbage collector when it realizes that no more references exist

@@ -1,0 +1,7 @@
+Board(Space[][])
+    printBoard
+    flipSpace(col,row)
+Space(isBomb, bombsAround, State)
+SpaceState(Cover, UnCover, Bombed)
+Randomizer
+Game

@@ -1,0 +1,8 @@
+Crashes when it runs
+Run 10 times -> never crashes in the same place
+Single Threaded - C standard library 
+
+Random Variable
+Unitialized Variable
+Memory Leaks - Not clearing space
+External Dependencies

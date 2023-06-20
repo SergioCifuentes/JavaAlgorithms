@@ -1,0 +1,9 @@
+Avoid Infinite loops
+
+HashMap<URLS>
+
+URL can be diffrent and the same with parameters
+
+use URL and Content establish less priority to the url
+
+

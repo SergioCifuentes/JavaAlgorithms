@@ -1,0 +1,13 @@
+TreeMap
+O(log N) lookup and insertion
+Sorted Order -> Red-Black Tree
+List of alphabetical ordered names
+
+HashMap
+O(n) lookup and insertion
+ordering of keys is essentially arbitrary->array of linked lists
+
+LinkedHashMap
+O(1) lookup and insertion
+hash map with previous and next pointer-> get items in inserted order
+Caching situation where we want to delete the oldest item

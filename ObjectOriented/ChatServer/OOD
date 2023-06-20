@@ -1,0 +1,12 @@
+User(Id, names,friendRequest)
+    acceptFriends
+Status
+Group Chats(Users)
+    -addPerson
+Chat(User,messages)
+Message(message, timeSent, State,user)
+ChatManager
+    -createChats
+    -findPeople
+    -sendFriendRequest
+    

@@ -1,0 +1,22 @@
+boolean canMoveTo(int x,int y)
+Piece class
+
+Test with full boards and empty boards
+Test white pieces and black
+Test different pieces
+
+Normal Case
+Posible Square Besides and Far
+Posible Square another different color piece on it
+Square with another same color piece on it
+Not posible square for peace
+
+
+Extremes
+x=7 y=7, x=0 y=0 Board Edges
+
+Nulls and illegal
+x<0 || x>7
+
+Strange input
+Same square its on

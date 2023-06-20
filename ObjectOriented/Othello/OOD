@@ -1,0 +1,12 @@
+Board(Space[][], Score)
+    -PlacePiece
+    -TurnPieces
+Space(hasPiece, Spaces, col, row)
+Piece(isWhite,)
+Game(Board) as a singleton
+Players
+
+Enum 
+Direction
+Color
+    

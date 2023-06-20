@@ -1,0 +1,20 @@
+10 billion URLS
+
+Same Machine
+4000 chunks of 1 GB
+<x>.txt x= hash(URL)*4000
+HashTable
+
+Diferent Machine
+xMachine
+HashTable;
+
+www.google.com/hello
+www.google.com/car
+www.facebook.com/settings
+www.google.com/car
+
+            www
+    google      facebook
+    com             com
+/hello  /car        /settings

@@ -1,0 +1,16 @@
+Does it have to be up to date 100%
+are some products more important than others (accuracy)
+Sales of all time, month week?
+
+SQL
+
+Table Prodcut, Category has sales count
+Table Product has sales count
+
+update every week, from sales
+
+10Million products
+ID = 4 Bytes  2^(8*4) =4B
+Count= 4 Bytes
+
+4*10Mil= 40 megabytes 

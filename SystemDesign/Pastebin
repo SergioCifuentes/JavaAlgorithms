@@ -1,0 +1,30 @@
+Questions
+How long will a URL last
+Max Text Size
+URL auto generated?
+
+
+Scope Probleme
+Generate URLs
+Assign URL to Text
+Consult Text from URL
+Remove URLs
+How many times the url was accessed 
+
+Assumptions
+ReadHeavy
+URL has a lifetime(3 days)
+Text has a max Size(0.1 Mb)
+A single URL could be used many times for the first minutes
+
+Mayor Components
+NonSQL Databse (key,value)
+Cache for first 5 minutes of a URL
+4bytes URL
+100Kb Text =100000B
+Total = 100,004* 10,000= 1000040000= 1GB data 
+Map Reduce
+URL generator(HashMap<URL,true>)
+
+
+Key Issues

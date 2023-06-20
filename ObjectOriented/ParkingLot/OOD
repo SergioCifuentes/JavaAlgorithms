@@ -1,0 +1,13 @@
+Organizer(TimeMax, Price, CarsWaiting, Parks)
+    -parkCar
+    -addCarToQueue
+    -removeCarFromQueue
+    -verifyTimeLimit
+Cars(PlateNumber, Owner, Description,state)
+    -leave
+    -park
+Spots (available, id, CurrentPark)
+    setPark
+Park(Car, Spot, TimeParked, TimeLeft)
+     
+    verifyTime

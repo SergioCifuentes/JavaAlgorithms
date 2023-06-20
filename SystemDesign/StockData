@@ -1,0 +1,23 @@
+SQL
+
+Pros
+-Query
+-Rolling back, Backups, Security
+-Integration for existing aapplitations
+
+Cons
+-Heavy
+-Difficult to read, implement an additional layer to view and maintian
+-Access
+
+XML
+
+Pros
+-Easy distribute
+-XML parsing for most languages
+-Adding data
+-Backups
+
+Cons
+-Sends all the information
+-Query
